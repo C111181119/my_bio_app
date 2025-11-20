@@ -1,0 +1,25 @@
+# Flutter build outputs
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+pubspec.lock
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Android/Gradle
+android/.gradle/
+*.apk
+*.keystore
+
+# iOS
+ios/Pods/
+*.xcworkspace
+*.xcuserstate
+
+# Others
+*.log
